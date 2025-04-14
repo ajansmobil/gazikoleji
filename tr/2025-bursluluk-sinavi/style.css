@@ -1,5 +1,5 @@
 
-  .ms6vo {
+  .zrdnx {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ms6votitle {
+  .zrdnxtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ms6votitlebody {
+  .zrdnxtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ms6votitlebodytitle {
+  .zrdnxtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ms6votitlebodylang {
+  .zrdnxtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ms6votitlebodylang ul {
+  .zrdnxtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ms6vobody {
+  .zrdnxbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ms6vomenu {
+  .zrdnxmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ms6vomenulist {
+  .zrdnxmenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ms6vomenubody {
+  .zrdnxmenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ms6vomenulist ul {
+  .zrdnxmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ms6vomenulist ul a {
+  .zrdnxmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .ms6vomenulist ul a:hover {
+  .zrdnxmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ms6vomenulistactive {
+  .zrdnxmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .ms6vomenulistbody {
+  .zrdnxmenulistbody {
     width: 100%;
   }
 
-  .ms6vobodylogo {
+  .zrdnxbodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .ms6vomenu {
+    .zrdnxmenu {
       overflow-x: auto;
     }
 
-    .ms6vomenulist ul {
+    .zrdnxmenulist ul {
       flex-direction: row;
     }
 
-    .ms6vobodylogo {
+    .zrdnxbodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,70 +134,8 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ms6vomenulist ul a {
+    .zrdnxmenulist ul a {
       font-size: 14px;
-    }
-  }
-
-
-  .sliderxi7biebody {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(135deg, #056633 0%, #9cca3b 100%);
-    margin: 0px 0px 0px 0px;
-    padding: 25px 0px 25px 0px;
-  }
-  .sliderxi7bie {
-    width: calc(var(--max) - 40px);
-    display: flex;
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    padding: 25px;
-    gap: 40px;
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out;
-  }
-  .sliderxi7bie:hover {
-    transform: translateY(-5px);
-  }
-  .sliderxi7bietitle {
-    width: 60%;
-    font-size: 28px;
-    padding-right: 15px;
-    color: #004e92;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-right: 2px solid #004e92;
-  }
-  .i7bie {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 10px;
-  }
-  .i7bie-media {
-    width: 75px;
-    height: 75px;
-    border-radius: 8px;
-    object-fit: cover;
-    transition: transform 0.3s ease-in-out;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  }
-  .i7bie-media:hover {
-    transform: scale(1.2);
-  }
-  @media screen and (max-width: 1200px) {
-    .sliderxi7bie {
-      width: calc(var(--max) - 100px) !important;
-    }
-    .i7bie-media {
-      width: 60px;
-      height: 60px;
     }
   }
 

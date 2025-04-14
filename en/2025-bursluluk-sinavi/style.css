@@ -1,5 +1,5 @@
 
-  .s9sz7 {
+  .sy345 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .s9sz7title {
+  .sy345title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .s9sz7titlebody {
+  .sy345titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .s9sz7titlebodytitle {
+  .sy345titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .s9sz7titlebodylang {
+  .sy345titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .s9sz7titlebodylang ul {
+  .sy345titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .s9sz7body {
+  .sy345body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .s9sz7menu {
+  .sy345menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .s9sz7menulist {
+  .sy345menulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .s9sz7menubody {
+  .sy345menubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .s9sz7menulist ul {
+  .sy345menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .s9sz7menulist ul a {
+  .sy345menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .s9sz7menulist ul a:hover {
+  .sy345menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .s9sz7menulistactive {
+  .sy345menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .s9sz7menulistbody {
+  .sy345menulistbody {
     width: 100%;
   }
 
-  .s9sz7bodylogo {
+  .sy345bodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .s9sz7menu {
+    .sy345menu {
       overflow-x: auto;
     }
 
-    .s9sz7menulist ul {
+    .sy345menulist ul {
       flex-direction: row;
     }
 
-    .s9sz7bodylogo {
+    .sy345bodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,70 +134,8 @@
   }
 
   @media screen and (max-width: 768px) {
-    .s9sz7menulist ul a {
+    .sy345menulist ul a {
       font-size: 14px;
-    }
-  }
-
-
-  .sliderxh9u7xbody {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(135deg, #056633 0%, #9cca3b 100%);
-    margin: 0px 0px 0px 0px;
-    padding: 25px 0px 25px 0px;
-  }
-  .sliderxh9u7x {
-    width: calc(var(--max) - 40px);
-    display: flex;
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    padding: 25px;
-    gap: 40px;
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out;
-  }
-  .sliderxh9u7x:hover {
-    transform: translateY(-5px);
-  }
-  .sliderxh9u7xtitle {
-    width: 60%;
-    font-size: 28px;
-    padding-right: 15px;
-    color: #004e92;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-right: 2px solid #004e92;
-  }
-  .h9u7x {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 10px;
-  }
-  .h9u7x-media {
-    width: 75px;
-    height: 75px;
-    border-radius: 8px;
-    object-fit: cover;
-    transition: transform 0.3s ease-in-out;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  }
-  .h9u7x-media:hover {
-    transform: scale(1.2);
-  }
-  @media screen and (max-width: 1200px) {
-    .sliderxh9u7x {
-      width: calc(var(--max) - 100px) !important;
-    }
-    .h9u7x-media {
-      width: 60px;
-      height: 60px;
     }
   }
 

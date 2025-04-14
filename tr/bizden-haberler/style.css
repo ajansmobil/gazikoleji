@@ -1,5 +1,5 @@
 
-  .pdlk6 {
+  .x597y {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .pdlk6title {
+  .x597ytitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .pdlk6titlebody {
+  .x597ytitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .pdlk6titlebodytitle {
+  .x597ytitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .pdlk6titlebodylang {
+  .x597ytitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .pdlk6titlebodylang ul {
+  .x597ytitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .pdlk6body {
+  .x597ybody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .pdlk6menu {
+  .x597ymenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .pdlk6menulist {
+  .x597ymenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .pdlk6menubody {
+  .x597ymenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .pdlk6menulist ul {
+  .x597ymenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .pdlk6menulist ul a {
+  .x597ymenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .pdlk6menulist ul a:hover {
+  .x597ymenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .pdlk6menulistactive {
+  .x597ymenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .pdlk6menulistbody {
+  .x597ymenulistbody {
     width: 100%;
   }
 
-  .pdlk6bodylogo {
+  .x597ybodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .pdlk6menu {
+    .x597ymenu {
       overflow-x: auto;
     }
 
-    .pdlk6menulist ul {
+    .x597ymenulist ul {
       flex-direction: row;
     }
 
-    .pdlk6bodylogo {
+    .x597ybodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,70 +134,8 @@
   }
 
   @media screen and (max-width: 768px) {
-    .pdlk6menulist ul a {
+    .x597ymenulist ul a {
       font-size: 14px;
-    }
-  }
-
-
-  .sliderxz91wbbody {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(135deg, #056633 0%, #9cca3b 100%);
-    margin: 0px 0px 0px 0px;
-    padding: 25px 0px 25px 0px;
-  }
-  .sliderxz91wb {
-    width: calc(var(--max) - 40px);
-    display: flex;
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    padding: 25px;
-    gap: 40px;
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out;
-  }
-  .sliderxz91wb:hover {
-    transform: translateY(-5px);
-  }
-  .sliderxz91wbtitle {
-    width: 60%;
-    font-size: 28px;
-    padding-right: 15px;
-    color: #004e92;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-right: 2px solid #004e92;
-  }
-  .z91wb {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 10px;
-  }
-  .z91wb-media {
-    width: 75px;
-    height: 75px;
-    border-radius: 8px;
-    object-fit: cover;
-    transition: transform 0.3s ease-in-out;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  }
-  .z91wb-media:hover {
-    transform: scale(1.2);
-  }
-  @media screen and (max-width: 1200px) {
-    .sliderxz91wb {
-      width: calc(var(--max) - 100px) !important;
-    }
-    .z91wb-media {
-      width: 60px;
-      height: 60px;
     }
   }
 
