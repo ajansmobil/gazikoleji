@@ -1,5 +1,5 @@
 
-  .utaqd {
+  .tlagw {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .utaqdtitle {
+  .tlagwtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .utaqdtitlebody {
+  .tlagwtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .utaqdtitlebodytitle {
+  .tlagwtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .utaqdtitlebodylang {
+  .tlagwtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .utaqdtitlebodylang ul {
+  .tlagwtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .utaqdbody {
+  .tlagwbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .utaqdmenu {
+  .tlagwmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .utaqdmenulist {
+  .tlagwmenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .utaqdmenubody {
+  .tlagwmenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .utaqdmenulist ul {
+  .tlagwmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .utaqdmenulist ul a {
+  .tlagwmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,66 +93,72 @@
     white-space: nowrap;
   }
 
-  .utaqdmenulist ul a:hover {
+  .tlagwmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .utaqdmenulistactive {
+  .tlagwmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .utaqdmenulistbody {
+  .tlagwmenulistbody {
     width: 100%;
   }
 
-  .utaqdbodylogo {
+
+
+
+
+
+  @media screen and (min-width: 1024px) {
+   .tlagwbodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
+  }
 
   @media screen and (max-width: 1024px) {
-    .utaqdmenu {
+    .tlagwmenu {
       overflow-x: auto;
     }
 
-    .utaqdmenulist ul {
+    .tlagwmenulist ul {
       flex-direction: row;
     }
 
-    .utaqdbodylogo {
-      height: 50vw;
+    .tlagwbodylogo {
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .utaqdmenulist ul a {
+    .tlagwmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .z8x8z {
+  .rc9if {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .z8x8zbody {
+  .rc9ifbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .z8x8zbodyitem {
+  .rc9ifbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -168,22 +174,22 @@
     align-items: center;
     justify-content: center;
   }
-  .z8x8zbodyitem:hover {
+  .rc9ifbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .z8x8zbodyitemimg {
+  .rc9ifbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .z8x8zbodyitemimg img {
+  .rc9ifbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .z8x8zbodyitemtitle {
+  .rc9ifbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -192,14 +198,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .z8x8zbody {
+    .rc9ifbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .z8x8zbody {
+    .rc9ifbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);
