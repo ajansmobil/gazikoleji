@@ -1,5 +1,5 @@
 
-  .z1ks2 {
+  .gd69a {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .z1ks2title {
+  .gd69atitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .z1ks2titlebody {
+  .gd69atitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .z1ks2titlebodytitle {
+  .gd69atitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .z1ks2titlebodylang {
+  .gd69atitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .z1ks2titlebodylang ul {
+  .gd69atitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .z1ks2body {
+  .gd69abody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .z1ks2menu {
+  .gd69amenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .z1ks2menulist {
+  .gd69amenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .z1ks2menubody {
+  .gd69amenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .z1ks2menulist ul {
+  .gd69amenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .z1ks2menulist ul a {
+  .gd69amenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,60 +93,57 @@
     white-space: nowrap;
   }
 
-  .z1ks2menulist ul a:hover {
+  .gd69amenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .z1ks2menulistactive {
+  .gd69amenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .z1ks2menulistbody {
+  .gd69amenulistbody {
     width: 100%;
   }
 
 
-
-
-
-
   @media screen and (min-width: 1024px) {
-   .z1ks2bodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
-  }
+    .gd69abodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .z1ks2menu {
+    .gd69amenu {
       overflow-x: auto;
     }
 
-    .z1ks2menulist ul {
+    .gd69amenulist ul {
       flex-direction: row;
     }
 
-    .z1ks2bodylogo {
+    .gd69abodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .z1ks2menulist ul a {
+    .gd69amenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .bbn14-title {
+  .j39vq-title {
     width: 100%;
     height: 200px;
     background-color: #056633;
@@ -158,7 +155,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .bbn14-title::before {
+  .j39vq-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -172,41 +169,41 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .bbn14-title span {
+  .j39vq-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
-  .bbn14 {
+  .j39vq {
     width: var(--max);
     display: flex;
     flex-direction: row;
     gap: 10px;
     margin-top: 20px;
   }
-  .bbn14-body {
+  .j39vq-body {
     flex: 2;
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
-  .bbn14-img {
+  .j39vq-img {
     flex: 1;
     display: flex;
     align-items: start;
     justify-content: center;
   }
   @media screen and (max-width: 1024px) {
-    .bbn14 {
+    .j39vq {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
-    .bbn14-img {
+    .j39vq-img {
       width: 100%;
     }
-    .bbn14-body {
+    .j39vq-body {
       width: 100%;
     }
   }

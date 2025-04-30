@@ -1,5 +1,5 @@
 
-  .juo8u {
+  .vcdog {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .juo8utitle {
+  .vcdogtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .juo8utitlebody {
+  .vcdogtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .juo8utitlebodytitle {
+  .vcdogtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .juo8utitlebodylang {
+  .vcdogtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .juo8utitlebodylang ul {
+  .vcdogtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .juo8ubody {
+  .vcdogbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .juo8umenu {
+  .vcdogmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .juo8umenulist {
+  .vcdogmenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .juo8umenubody {
+  .vcdogmenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .juo8umenulist ul {
+  .vcdogmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .juo8umenulist ul a {
+  .vcdogmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,60 +93,57 @@
     white-space: nowrap;
   }
 
-  .juo8umenulist ul a:hover {
+  .vcdogmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .juo8umenulistactive {
+  .vcdogmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .juo8umenulistbody {
+  .vcdogmenulistbody {
     width: 100%;
   }
 
 
-
-
-
-
   @media screen and (min-width: 1024px) {
-   .juo8ubodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
-  }
+    .vcdogbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .juo8umenu {
+    .vcdogmenu {
       overflow-x: auto;
     }
 
-    .juo8umenulist ul {
+    .vcdogmenulist ul {
       flex-direction: row;
     }
 
-    .juo8ubodylogo {
+    .vcdogbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .juo8umenulist ul a {
+    .vcdogmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .hhczv-title {
+  .t8tyv-title {
     width: 100%;
     height: 200px;
     background-color: #056633;
@@ -158,7 +155,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .hhczv-title::before {
+  .t8tyv-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -172,41 +169,41 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .hhczv-title span {
+  .t8tyv-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
-  .hhczv {
+  .t8tyv {
     width: var(--max);
     display: flex;
     flex-direction: row;
     gap: 10px;
     margin-top: 20px;
   }
-  .hhczv-body {
+  .t8tyv-body {
     flex: 2;
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
-  .hhczv-img {
+  .t8tyv-img {
     flex: 1;
     display: flex;
     align-items: start;
     justify-content: center;
   }
   @media screen and (max-width: 1024px) {
-    .hhczv {
+    .t8tyv {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
-    .hhczv-img {
+    .t8tyv-img {
       width: 100%;
     }
-    .hhczv-body {
+    .t8tyv-body {
       width: 100%;
     }
   }
