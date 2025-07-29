@@ -7,7 +7,7 @@
   "category": "",
   "id": "ri7qnaf8av",
   "url": "",
-  "path": "kurumsalo0z",
+  "path": "hakkimizda",
   "keyword": {
     "tr": "gazi koleji kurumsal, özel okul, eğitim kurumu, gaziantep kolej, kurumsal yapı, eğitim vizyonu",
     "en": "gazi college corporate, private school, education institution"
@@ -27,10 +27,13 @@
   "index": 0,
   "desing": {
     "header": [],
-    "body": ["rgkidh"],
+    "body": [
+      "rgkidh"
+    ],
     "footer": []
   },
   "icon": "home",
-  "update": "2025-07-09T10:10:44.811Z",
-  "date": "2025-07-09T10:10:31.141Z"
+  "update": "2025-07-29T12:54:13.918Z",
+  "date": "2025-07-09T10:10:31.141Z",
+  "pathnext": ""
 }

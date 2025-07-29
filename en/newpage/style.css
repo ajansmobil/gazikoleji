@@ -1,5 +1,5 @@
 
-  .fyj3f {
+  .eihyo {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .fyj3ftitle {
+  .eihyotitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .fyj3ftitlebody {
+  .eihyotitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .fyj3ftitlebodytitle {
+  .eihyotitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .fyj3ftitlebodylang {
+  .eihyotitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .fyj3ftitlebodylang ul {
+  .eihyotitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .fyj3fbody {
+  .eihyobody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .fyj3fmenu {
+  .eihyomenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .fyj3fmenulist {
+  .eihyomenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .fyj3fmenubody {
+  .eihyomenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .fyj3fmenulist ul {
+  .eihyomenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .fyj3fmenulist ul a {
+  .eihyomenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,26 +93,26 @@
     white-space: nowrap;
   }
 
-  .fyj3fmenulist ul a:hover {
+  .eihyomenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .fyj3f-menu-list-active {
+  .eihyo-menu-list-active {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .fyj3fmenulistbody {
+  .eihyomenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .fyj3fbodylogo {
+    .eihyobodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -120,15 +120,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .fyj3fmenu {
+    .eihyomenu {
       overflow-x: auto;
     }
 
-    .fyj3fmenulist ul {
+    .eihyomenulist ul {
       flex-direction: row;
     }
 
-    .fyj3fbodylogo {
+    .eihyobodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -136,25 +136,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .fyj3fmenulist ul a {
+    .eihyomenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .uvhg4 {
+  .sdl50 {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .uvhg4body {
+  .sdl50body {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .uvhg4bodyitem {
+  .sdl50bodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -170,22 +170,22 @@
     align-items: center;
     justify-content: center;
   }
-  .uvhg4bodyitem:hover {
+  .sdl50bodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .uvhg4bodyitemimg {
+  .sdl50bodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .uvhg4bodyitemimg img {
+  .sdl50bodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .uvhg4bodyitemtitle {
+  .sdl50bodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,20 +193,20 @@
     font-weight: bold;
     font-size: 16px;
   }
-  .uvhg4bodyitemtext {
+  .sdl50bodyitemtext {
     display: flex;
     align-items: center;
     justify-content: center;
   }
   @media screen and (max-width: 1024px) {
-    .uvhg4body {
+    .sdl50body {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .uvhg4body {
+    .sdl50body {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);
