@@ -1,13 +1,13 @@
 {
   "name": {
-    "tr": "OKUL ÜNİFORMASI VE SPOR KIYAFETLER",
+    "tr": "Okul Üniforma ve Spor Kıyaferler",
     "en": ""
   },
   "status": "play",
   "category": "",
   "id": "h7iq31q2mv",
   "url": "",
-  "path": "okul-uniformasi-ve-spor-kiyafetler",
+  "path": "okuluniformasivesporkiyafetler",
   "index": 2,
   "icon": "home",
   "desing": {
@@ -29,7 +29,7 @@
   "spot": {
     "tr": ""
   },
-  "update": "2025-07-29T12:54:36.085Z",
+  "update": "2025-07-29T12:55:24.034Z",
   "date": "2025-07-29T12:51:51.869Z",
   "pathnext": ""
 }

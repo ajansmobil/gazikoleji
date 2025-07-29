@@ -1,5 +1,5 @@
 
-  .v4rpb {
+  .ljmix {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .v4rpbtitle {
+  .ljmixtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .v4rpbtitlebody {
+  .ljmixtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .v4rpbtitlebodytitle {
+  .ljmixtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .v4rpbtitlebodylang {
+  .ljmixtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .v4rpbtitlebodylang ul {
+  .ljmixtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .v4rpbbody {
+  .ljmixbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .v4rpbmenu {
+  .ljmixmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .v4rpbmenulist {
+  .ljmixmenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .v4rpbmenubody {
+  .ljmixmenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .v4rpbmenulist ul {
+  .ljmixmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .v4rpbmenulist ul a {
+  .ljmixmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,26 +93,26 @@
     white-space: nowrap;
   }
 
-  .v4rpbmenulist ul a:hover {
+  .ljmixmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .v4rpb-menu-list-active {
+  .ljmix-menu-list-active {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .v4rpbmenulistbody {
+  .ljmixmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .v4rpbbodylogo {
+    .ljmixbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -120,15 +120,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .v4rpbmenu {
+    .ljmixmenu {
       overflow-x: auto;
     }
 
-    .v4rpbmenulist ul {
+    .ljmixmenulist ul {
       flex-direction: row;
     }
 
-    .v4rpbbodylogo {
+    .ljmixbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -136,7 +136,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .v4rpbmenulist ul a {
+    .ljmixmenulist ul a {
       font-size: 14px;
     }
   }

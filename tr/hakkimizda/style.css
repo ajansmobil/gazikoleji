@@ -1,5 +1,5 @@
 
-  .ihbnc {
+  .tit3n {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ihbnctitle {
+  .tit3ntitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ihbnctitlebody {
+  .tit3ntitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ihbnctitlebodytitle {
+  .tit3ntitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ihbnctitlebodylang {
+  .tit3ntitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ihbnctitlebodylang ul {
+  .tit3ntitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ihbncbody {
+  .tit3nbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ihbncmenu {
+  .tit3nmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ihbncmenulist {
+  .tit3nmenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ihbncmenubody {
+  .tit3nmenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ihbncmenulist ul {
+  .tit3nmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ihbncmenulist ul a {
+  .tit3nmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,26 +93,26 @@
     white-space: nowrap;
   }
 
-  .ihbncmenulist ul a:hover {
+  .tit3nmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ihbnc-menu-list-active {
+  .tit3n-menu-list-active {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .ihbncmenulistbody {
+  .tit3nmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ihbncbodylogo {
+    .tit3nbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -120,15 +120,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ihbncmenu {
+    .tit3nmenu {
       overflow-x: auto;
     }
 
-    .ihbncmenulist ul {
+    .tit3nmenulist ul {
       flex-direction: row;
     }
 
-    .ihbncbodylogo {
+    .tit3nbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -136,7 +136,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ihbncmenulist ul a {
+    .tit3nmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,7 +146,7 @@
     justify-content: start;
   }
 
-  .m13sc {
+  .vsgov {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -154,7 +154,7 @@
     position: relative;
   }
 
-  .m13sc-menu-btn {
+  .vsgov-menu-btn {
     display: none;
     background-color: #056633;
     padding: 10px 20px;
@@ -166,11 +166,11 @@
     align-items: center;
   }
 
-  .m13sc-menu-btn i {
+  .vsgov-menu-btn i {
     font-size: 20px;
   }
 
-  .m13sc-menu {
+  .vsgov-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -181,28 +181,28 @@
     float: left;
   }
 
-  .m13sc-desc {
+  .vsgov-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .m13sc-menu > a {
+  .vsgov-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .m13sc-menu > .active,
-  .m13sc-menu > a:hover {
+  .vsgov-menu > .active,
+  .vsgov-menu > a:hover {
     background-color: #056633;
     color: #fff;
     display: flex;
   }
 
-  .m13sc-desc-menu {
+  .vsgov-desc-menu {
     width: 200px;
     background-color: #056633;
     display: flex;
@@ -210,19 +210,19 @@
     border-radius: 5px;
   }
 
-  .m13sc-desc-menu > div {
+  .vsgov-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .m13sc-desc-body {
+  .vsgov-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .m13sc-title {
+  .vsgov-title {
     width: 100%;
     height: 200px;
     background-color: #056633;
@@ -235,7 +235,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .m13sc-title::before {
+  .vsgov-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -250,44 +250,44 @@
     z-index: 1;
   }
 
-  .m13sc-title span {
+  .vsgov-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .m13sc-body {
+  .vsgov-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .m13sc-img {
+  .vsgov-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .m13sc-img img {
+  .vsgov-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .m13sc-desc {
+    .vsgov-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .m13sc-menu-btn {
+    .vsgov-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .m13sc {
+    .vsgov {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -296,17 +296,17 @@
       margin-top: 0px;
     }
 
-    .m13sc-img {
+    .vsgov-img {
       width: 100%;
     }
 
-    .m13sc-body {
+    .vsgov-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .m13sc-menu {
+    .vsgov-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -314,11 +314,11 @@
       display: none;
     }
 
-    .m13sc-menu.active {
+    .vsgov-menu.active {
       display: flex;
     }
 
-    .m13sc-desc {
+    .vsgov-desc {
       width: 100% !important;
       order: 2;
     }

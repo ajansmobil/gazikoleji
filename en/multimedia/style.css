@@ -1,5 +1,5 @@
 
-  .qglvp {
+  .ekyco {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .qglvptitle {
+  .ekycotitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .qglvptitlebody {
+  .ekycotitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .qglvptitlebodytitle {
+  .ekycotitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .qglvptitlebodylang {
+  .ekycotitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .qglvptitlebodylang ul {
+  .ekycotitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .qglvpbody {
+  .ekycobody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .qglvpmenu {
+  .ekycomenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .qglvpmenulist {
+  .ekycomenulist {
     width: calc(100% - 20px);
     background-color: #056633;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .qglvpmenubody {
+  .ekycomenubody {
     width: 100%;
     background-color: #056633;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .qglvpmenulist ul {
+  .ekycomenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .qglvpmenulist ul a {
+  .ekycomenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,26 +93,26 @@
     white-space: nowrap;
   }
 
-  .qglvpmenulist ul a:hover {
+  .ekycomenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .qglvp-menu-list-active {
+  .ekyco-menu-list-active {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .qglvpmenulistbody {
+  .ekycomenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .qglvpbodylogo {
+    .ekycobodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -120,15 +120,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .qglvpmenu {
+    .ekycomenu {
       overflow-x: auto;
     }
 
-    .qglvpmenulist ul {
+    .ekycomenulist ul {
       flex-direction: row;
     }
 
-    .qglvpbodylogo {
+    .ekycobodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -136,25 +136,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .qglvpmenulist ul a {
+    .ekycomenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .n3q21 {
+  .plkch {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .n3q21body {
+  .plkchbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .n3q21bodyitem {
+  .plkchbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -170,22 +170,22 @@
     align-items: center;
     justify-content: center;
   }
-  .n3q21bodyitem:hover {
+  .plkchbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .n3q21bodyitemimg {
+  .plkchbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .n3q21bodyitemimg img {
+  .plkchbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .n3q21bodyitemtitle {
+  .plkchbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -194,14 +194,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .n3q21body {
+    .plkchbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .n3q21body {
+    .plkchbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);
