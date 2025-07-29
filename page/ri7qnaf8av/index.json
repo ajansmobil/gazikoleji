@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Kurumsal",
+    "en": "Corporate"
+  },
+  "status": "play",
+  "category": "",
+  "id": "ri7qnaf8av",
+  "url": "",
+  "path": "kurumsalo0z",
+  "keyword": {
+    "tr": "gazi koleji kurumsal, özel okul, eğitim kurumu, gaziantep kolej, kurumsal yapı, eğitim vizyonu",
+    "en": "gazi college corporate, private school, education institution"
+  },
+  "description": {
+    "tr": "Gazi Koleji kurumsal yapısı, vizyonu ve misyonu. Kaliteli eğitim anlayışımız ve kurumsal değerlerimiz hakkında bilgi.",
+    "en": "Information about Gazi College corporate structure, vision and mission"
+  },
+  "text": {
+    "tr": "",
+    "en": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "Learn about our institutional structure and values"
+  },
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": ["rgkidh"],
+    "footer": []
+  },
+  "icon": "home",
+  "update": "2025-07-09T10:10:44.811Z",
+  "date": "2025-07-09T10:10:31.141Z"
+}

@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Yönetim",
+    "en": "Management"
+  },
+  "status": "play",
+  "category": "",
+  "id": "xzkd4g2geb",
+  "url": "",
+  "path": "yonetim",
+  "keyword": {
+    "tr": "gazi koleji yönetim, okul yönetimi, eğitim kadrosu, okul müdürü, yönetim kurulu, idari kadro",
+    "en": "gazi college management, school administration, education staff"
+  },
+  "description": {
+    "tr": "Gazi Koleji yönetim kadrosu ve idari yapısı. Deneyimli eğitim kadromuz ve yönetim anlayışımız hakkında bilgi.",
+    "en": "Information about Gazi College management team and administrative structure"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yönetim</h2>\n<p style=\" font-size: 16px;\">Sayın Veliler, Sevgili Öğrenciler,</p>\n<p style=\" font-size: 16px;\">   Gazi Koleji kurulduğu günden itibaren bir okul kültürü oluşturmak için çalıştık, okul kültürümüzün merkezinde \"yaşam için eğitim\" ideali bulunuyor. Öğrencilerimizi sadece sınavlara değil hayatın ve toplumsal yaşamın her alanına hazır hale getirmek için çalışıyoruz. Milli Eğitimin temel ilkeleri ve Atamızın çizdiği çağdaş uygarlık yolunda tasarladığımız Eğitim programlarımız uzman eğitim yöneticilerimiz ve öğretmenlerimiz tarafından büyük bir özveri ile uygulanmaktadır.</p>\n<p style=\" font-size: 16px;\">  2018 – 2019 Eğitim ve Öğretim Yılı itibariyle Anaokulundan başlayan eğitim çatımız Anadolu ve Fen Lisemiz ile tamamlanmış bulunuyor. İki ayrı yerleşkede dört yaşından on altı yaşına kadar yaklaşık altı yüz öğrenci için tasarlanmış Gazi Koleji, şehrimizin, ülkemizin ve Aydınlık yarınların hizmetindedir.</p>\n<p style=\" font-size: 16px;\">  Okullarımızın kuruluşunda ve gelişiminde çok büyük emekleri olan ve ilk günden itibaren yalnız bırakmayan en değerli varlıklarını çocuklarını bizlere emanet eden velilerimize ve her zaman varlıkları ile mutluluğumuza vesile olan öğrencilerime çok teşekkür ediyorum.</p>\n<p style=\" font-size: 16px;\">Her zaman başarı ve mutluluk sizlerle ve bizlerle olsun.</p>\n<p style=\" font-size: 16px;\">Savaş BEKTAŞOĞLU - KURUCU</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Management</h2>\n<p style=\" font-size: 16px;\">Dear Parents, Dear Students,</p>\n<p style=\" font-size: 16px;\">   Since its establishment, we have worked to create a school culture at Gazi College, with the ideal of \"education for life\" at the center of our school culture. We work to prepare our students not only for exams but for all areas of life and social living. Our Education programs, designed in line with the basic principles of National Education and the path of contemporary civilization drawn by Atatürk, are implemented with great dedication by our expert education administrators and teachers.</p>\n<p style=\" font-size: 16px;\">  As of the 2018-2019 Academic Year, our educational framework, starting from Kindergarten, has been completed with our Anatolian and Science High Schools. Gazi College, designed for approximately six hundred students from age four to sixteen in two separate campuses, serves our city, our country, and bright tomorrows.</p>\n<p style=\" font-size: 16px;\">  I would like to thank our parents who have made great contributions to the establishment and development of our schools and who have entrusted their most valuable assets, their children, to us from day one, and to my students who have always been a source of happiness with their presence.</p>\n<p style=\" font-size: 16px;\">May success and happiness always be with you and us.</p>\n<p style=\" font-size: 16px;\">Savaş BEKTAŞOĞLU - FOUNDER</p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "bgimg": "bvrk6.png",
+  "update": "2025-07-09T10:10:44.852Z",
+  "date": "2025-07-09T10:10:31.190Z"
+}

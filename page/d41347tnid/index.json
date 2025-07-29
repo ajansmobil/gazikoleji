@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Multimedia",
+    "en": "Multimedia"
+  },
+  "status": "play",
+  "category": "",
+  "id": "d41347tnid",
+  "url": "",
+  "path": "multimedia",
+  "keyword": {
+    "tr": "",
+    "en": ""
+  },
+  "description": {
+    "tr": "",
+    "en": ""
+  },
+  "text": {
+    "tr": "",
+    "en": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 3,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": ["gquhhb"],
+    "footer": []
+  },
+  "update": "2025-07-09T10:10:44.833Z",
+  "date": "2025-07-09T10:10:31.166Z"
+}

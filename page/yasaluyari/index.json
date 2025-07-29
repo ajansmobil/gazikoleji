@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Yasal Uyarı",
+    "en": "Legal warning"
+  },
+  "status": "play",
+  "id": "yasaluyari",
+  "path": "yasal-uyari",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yasal Uyarı</h2>\n    <p style=\" font-size: 16px;\">\n        GAZİ KOLEJİ web sitesinde yer alan tüm içerikler, 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun kapsamında koruma altındadır. Sitemizde yer alan hiçbir içerik, kurumumuzun yazılı izni olmadan kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Kurumumuz, içeriklerinin izinsiz kullanımı durumunda yasal haklarını koruma hakkını saklı tutar. İçeriklerin izinsiz kullanımı, telif hakları ihlali kapsamında değerlendirilir ve yasal yaptırımlar uygulanır. Eğitim kurumu olarak, öğrencilerimizin ve velilerimizin haklarını korumak önceliğimizdir.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Web sitemizi kullanarak bu yasal uyarıyı kabul etmiş sayılırsınız. İçeriklerimizle ilgili her türlü hak ihlali bildirimini kurumumuza iletebilirsiniz.</p>",
+    "en": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "",
+    "en": ""
+  },
+  "description": {
+    "tr": "",
+    "en": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 8,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "phk1o.png",
+  "update": "2025-07-09T10:10:44.899Z",
+  "date": "2025-07-09T10:10:31.247Z"
+}

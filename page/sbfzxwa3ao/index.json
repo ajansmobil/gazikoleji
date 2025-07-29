@@ -1,0 +1,39 @@
+{
+  "name": {
+    "tr": "OKUL ÖNCESİ",
+    "en": "PRESCHOOL"
+  },
+  "status": "play",
+  "category": "",
+  "id": "sbfzxwa3ao",
+  "url": "",
+  "path": "okuloncesi",
+  "keyword": {
+    "tr": "okul öncesi eğitim, anaokulu, kreş, gazi koleji anaokulu, gaziantep anaokulu, montessori eğitimi, okul öncesi",
+    "en": "preschool education, kindergarten, Gazi College preschool"
+  },
+  "description": {
+    "tr": "Gazi Koleji Anaokulunda 4 yaş itibariyle çocuklarımıza özel eğitim imkanı. Modern eğitim yöntemleri ve uzman kadroyla kaliteli okul öncesi eğitim.",
+    "en": "Quality preschool education at Gazi College Kindergarten"
+  },
+  "text": {
+    "tr": "<div class='education-content'><h3>Gazi Koleji Anaokulu</h3><p>4 yaş itibariyle çocuklarımıza özel eğitim imkanı sunmaktadır. 3 şubede toplam 40 öğrenci kapasitesiyle butik eğitim anlayışını benimsiyoruz.</p><p>Erken yaşta motor becerileri, düzenli çalışma alışkanlığı ve üstün iletişim yetenekleri kazandırıyoruz. İngilizce eğitimimiz; spor, sanat, dans, müzik ve resim dersleriyle desteklenmektedir. Uzman öğretmenlerimiz ve yardımcı kadromuz ile kaliteli eğitim sunuyoruz.</p><p>Anaokulu bölümümüz, özel hijyen standartlarıyla donatılmış ayrı bir alanda hizmet vermektedir. Yemekhane, oyun alanları ve spor salonumuz çocuklarımızın yaş gruplarına özel tasarlanmıştır. Doğayla iç içe bahçemizde evcil hayvanlar ve bitkilerle etkileşim imkanı sunuyoruz. Her yıl sınırlı kontenjan ile öğrenci kabul ederek, kişiye özel eğitim anlayışımızı sürdürüyoruz.</p></div>",
+    "en": "<div class='education-content'><h3>Gazi College Kindergarten</h3><p>We provide special education opportunities for our children from the age of 4. We embrace the boutique education approach with a total capacity of 40 students in 3 branches.</p><p>We help children develop motor skills, regular study habits, and superior communication abilities at an early age. Our English education is supported by sports, art, dance, music, and painting lessons. We provide quality education with our expert teachers and support staff.</p><p>Our kindergarten section serves in a separate area equipped with special hygiene standards. Our cafeteria, playgrounds, and gymnasium are specially designed for our children's age groups. We offer interaction opportunities with pets and plants in our nature-integrated garden. We maintain our personalized education approach by accepting students with limited quotas each year.</p></div>"
+  },
+  "spot": {
+    "tr": "Gazi Koleji Anaokulunda 4 yaşından itibaren öğrencilerimize özel eğitim verilmektedir. Her sınıfta az sayıda öğrenci ile butik eğitim sağlanmaktadır.",
+    "en": "At Gazi College Kindergarten, special education is provided to our students from the age of 4. Boutique education is provided with a small number of students in each class."
+  },
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "icon": "home",
+  "img": "rcolw.png",
+  "bgimg": "uzpym.png",
+  "update": "2025-07-09T10:10:44.926Z",
+  "date": "2025-07-09T10:10:31.276Z"
+}

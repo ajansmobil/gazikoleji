@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data"
+  },
+  "status": "play",
+  "id": "kisiselveriler",
+  "path": "kisisel-veriler",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kişisel Veriler</h2>\n    <p style=\"font-size: 16px;\">\n        GAZİ KOLEJİ olarak, öğrencilerimizin ve velilerimizin kişisel verilerinin korunması konusunda azami hassasiyet göstermekteyiz. Kişisel verileriniz, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve ilgili mevzuat çerçevesinde, eğitim hizmetlerimizin en iyi şekilde sunulması amacıyla işlenmektedir. Verilerinizin güvenliği için en güncel teknik ve idari tedbirleri uygulamaktayız.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kurumumuz bünyesinde işlenen kişisel veriler, yalnızca yetkili personelin erişimine açık olup, yasal zorunluluklar dışında üçüncü taraflarla kesinlikle paylaşılmamaktadır. Öğrenci ve veli verilerimiz, eğitim süreçlerinin planlanması, akademik gelişimin takibi ve yasal yükümlülüklerin yerine getirilmesi amaçlarıyla, gerekli güvenlik önlemleri alınarak saklanmaktadır.\n    </p>\n    <p style=\"font-size: 16px;\">\n        KVKK kapsamında size tanınan tüm haklar kurumumuz tarafından güvence altına alınmıştır. Verilerinizin işlenmesi, saklanması veya silinmesi konusundaki taleplerinizi resmi kanallarımız üzerinden bize iletebilirsiniz. Kişisel verilerin korunması konusundaki hassasiyetimiz, eğitim kalitemizin ayrılmaz bir parçasıdır.</p>",
+    "en": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "",
+    "en": ""
+  },
+  "description": {
+    "tr": "",
+    "en": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 6,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "yuuek.png",
+  "update": "2025-07-09T10:10:44.886Z",
+  "date": "2025-07-09T10:10:31.231Z"
+}

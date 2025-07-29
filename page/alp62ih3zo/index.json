@@ -1,0 +1,39 @@
+{
+  "name": {
+    "tr": "ORTAOKUL",
+    "en": "MIDDLE SCHOOL"
+  },
+  "status": "play",
+  "category": "",
+  "id": "alp62ih3zo",
+  "url": "",
+  "path": "ortaokul",
+  "keyword": {
+    "tr": "ortaokul eğitimi, özel ortaokul, gazi koleji ortaokul, gaziantep ortaokul, 5-8 sınıf eğitimi",
+    "en": "middle school education, secondary school, Gazi College"
+  },
+  "description": {
+    "tr": "Gazi Koleji Ortaokulunda 5-8. sınıf öğrencileri için akademik mükemmellik. Yoğun İngilizce programı ve modern eğitim yaklaşımı.",
+    "en": "Academic excellence at Gazi College Middle School"
+  },
+  "text": {
+    "tr": "<div class='education-content'><h3>Gazi Koleji Ortaokulu</h3><p>5-8. sınıf öğrencilerimiz için akademik mükemmelliği hedefleyen kapsamlı bir eğitim programı sunmaktadır.</p><p>Yoğunlaştırılmış İngilizce programımız, öğrencilerimizin global dünyaya hazırlanmasını sağlamaktadır. Akılcı disiplin anlayışımız ve modern eğitim yaklaşımımız ile öğrencilerimizin potansiyellerini en üst düzeyde gerçekleştirmelerini hedefliyoruz.</p><p>Ergenlik dönemindeki öğrencilerimize özel iletişim ve gelişim programları uyguluyoruz. Bilimsel düşünmeyi, akademik başarıyı ve sosyal gelişimi dengeli bir şekilde destekliyoruz. Düzenli ölçme-değerlendirme sistemiyle, öğrencilerimizin gelişimini yakından takip ediyor, ihtiyaç duydukları alanlarda birebir destek sağlıyoruz.</p></div>",
+    "en": "<div class='education-content'><h3>Gazi College Middle School</h3><p>We offer a comprehensive education program aimed at academic excellence for our 5th-8th grade students.</p><p>Our intensive English program prepares our students for the global world. With our rational disciplinary understanding and modern educational approach, we aim to help our students realize their potential at the highest level.</p><p>We implement special communication and development programs for our adolescent students. We support scientific thinking, academic success, and social development in a balanced way. With our regular assessment and evaluation system, we closely monitor our students' development and provide one-on-one support in areas where they need it.</p></div>"
+  },
+  "spot": {
+    "tr": "Gazi Koleji Ortaokulunda yoğunlaştırılmış İngilizce programı ile birlikte yüksek akademik başarıyı hedefleyen bir eğitim sunulmaktadır.",
+    "en": "With the intensified English program in Gazi College Secondary School, a training aimed at high academic success is offered."
+  },
+  "index": 2,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "img": "cqy24.png",
+  "bgimg": "hz27z.png",
+  "update": "2025-07-09T10:10:44.940Z",
+  "date": "2025-07-09T10:10:31.293Z"
+}

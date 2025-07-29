@@ -1,0 +1,42 @@
+{
+  "name": {
+    "tr": "Her Şey Dahil Konsepti",
+    "en": "All-Inclusive Concept"
+  },
+  "status": "play",
+  "category": "",
+  "id": "e8ub9urcu4",
+  "url": "",
+  "path": "herseydahilkonsepti",
+  "keyword": {
+    "tr": "",
+    "en": ""
+  },
+  "description": {
+    "tr": "",
+    "en": ""
+  },
+  "text": {
+    "tr": "<p style=\\\" font-size: 16px;\\\">GAZİ KOLEJİ, öğrencilerine ve velilerine Eğitim ve Öğretim için tüm ihtiyaçlarını tek çatı altında sunmaktadır.</p>\n\n<p style=\\\" font-size: 16px;\\\">Okul eğitimi, aile danışmanlığı, sanat ve kültür eğitimi, akademik eğitim ve bu programlar için ihtiyaç duyulan tüm ihtiyaçlar kurumumuz tarafından tek bir paket içerisinde sunulmaktadır. Öğrencilerimiz okul eğitimi yanında müzik, sanat ve spor eğitimlerini de GAZİ KOLEJİ çatısı altında ekstra ücret ödemeksizin almaktadırlar.</p>",
+    "en": "<p style=\\\" font-size: 16px;\\\">GAZI COLLEGE offers all educational needs under one roof for its students and parents.</p>\n\n<p style=\\\" font-size: 16px;\\\">School education, family counseling, art and cultural education, academic education, and all needs required for these programs are provided by our institution in a single package. In addition to school education, our students receive music, art, and sports education under the GAZI COLLEGE roof without paying extra fees.</p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 2,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "ytau7z",
+      "o4jczr",
+      "azm195"
+    ],
+    "footer": []
+  },
+  "bgimg": "i841m.png",
+  "update": "2025-07-29T12:50:25.668Z",
+  "date": "2025-07-09T10:10:31.157Z",
+  "pathnext": ""
+}

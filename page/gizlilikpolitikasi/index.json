@@ -1,0 +1,32 @@
+{
+  "name": {
+    "tr": "Gizlilik Politikası",
+    "en": "Privacy Policy"
+  },
+  "status": "play",
+  "id": "gizlilikpolitikasi",
+  "path": "gizlilikpolitikasi",
+  "category": "kurumsal",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 5,
+  "icon": "home",
+  "desc": {},
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-07-29T12:46:24.853Z",
+  "date": "2025-07-29T12:46:24.853Z"
+}

@@ -1,0 +1,39 @@
+{
+  "name": {
+    "tr": "İLKOKUL",
+    "en": "PRIMARY SCHOOL"
+  },
+  "status": "play",
+  "category": "",
+  "id": "go15yczl98",
+  "url": "",
+  "path": "ilkokul",
+  "keyword": {
+    "tr": "ilkokul eğitimi, özel ilkokul, gazi koleji ilkokul, gaziantep ilkokul, ilköğretim, temel eğitim",
+    "en": "primary school education, elementary school, Gazi College"
+  },
+  "description": {
+    "tr": "Gazi Koleji İlkokulunda 1-4. sınıf düzeylerinde çağdaş eğitim. Branş öğretmenleri ve modern eğitim programlarıyla kaliteli ilkokul eğitimi.",
+    "en": "Quality primary education at Gazi College Primary School"
+  },
+  "text": {
+    "tr": "<div class='education-content'><h3>Gazi Koleji İlkokulu</h3><p>1-4. sınıf düzeylerinde çağdaş eğitim sunmaktadır. 8 şubede toplam 120 öğrenci kapasitesiyle, her öğrencimize özel ilgi gösteriyoruz.</p><p>Akademik gelişimin temellerinin atıldığı ilk 4 yılda, branş öğretmenlerimiz de eğitim sürecine aktif destek vermektedir. Okuma-yazma öğretiminin yanı sıra, yaratıcı düşünme ve iletişim becerilerini geliştiren özel programlar uyguluyoruz.</p><p>Modern yemekhane, çocuk parkı ve spor salonumuz ile öğrencilerimize güvenli ve keyifli bir eğitim ortamı sunuyoruz. Doğal yaşamla iç içe bahçemiz, öğrencilerimizin sosyal ve duygusal gelişimini desteklemektedir.</p></div>",
+    "en": "<div class='education-content'><h3>Gazi College Primary School</h3><p>We provide contemporary education at grades 1-4. With a total capacity of 120 students in 8 branches, we give special attention to each student.</p><p>In the first 4 years where the foundations of academic development are laid, our branch teachers actively support the education process. In addition to teaching literacy, we implement special programs that develop creative thinking and communication skills.</p><p>With our modern cafeteria, playground, and gymnasium, we provide our students with a safe and enjoyable learning environment. Our garden, integrated with natural life, supports our students' social and emotional development.</p></div>"
+  },
+  "spot": {
+    "tr": "Gazi Koleji İlkokulunda 1-4. sınıf düzeylerinde eğitim verilmektedir. Uzman öğretmenlerimiz ile öğrencilerimizin akademik ve sosyal gelişimine katkı sağlıyoruz.",
+    "en": "At Gazi College Primary School, education is provided at grades 1-4. We contribute to our students' academic and social development with our expert teachers."
+  },
+  "index": 1,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "img": "nz9yi.png",
+  "bgimg": "aiqgo.png",
+  "update": "2025-07-09T10:10:44.932Z",
+  "date": "2025-07-09T10:10:31.286Z"
+}
