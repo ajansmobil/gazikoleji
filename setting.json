@@ -1,0 +1,29 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Gazi Koleji, Gaziantep'te 2015'ten beri faaliyet gösteren, anaokulu, ilkokul ve ortaokul eğitimi veren, modern eğitim anlayışıyla öğrencilerini geleceğe hazırlayan özel okul."
+  },
+  "keyword": {
+    "tr": "gazi koleji, özel okul, gaziantep özel okul, anaokulu, ilkokul, ortaokul, eğitim, okul, kolej, özel eğitim, gaziantep kolej"
+  },
+  "multi": false,
+  "category": "Tanıtım",
+  "name": "Gazi Koleji",
+  "domain": "gazikoleji.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": ".DS_Store"
+}
