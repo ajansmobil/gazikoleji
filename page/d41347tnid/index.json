@@ -6,7 +6,7 @@
   "status": "play",
   "category": "",
   "id": "d41347tnid",
-  "externalUrl": "",
+  "url": "",
   "path": "multimedia",
   "keyword": {
     "tr": "",
@@ -28,11 +28,9 @@
   "icon": "home",
   "desing": {
     "header": [],
-    "body": [
-      "gquhhb"
-    ],
+    "body": ["gquhhb"],
     "footer": []
   },
-  "update": "2025-08-02T18:08:57.164Z",
+  "update": "2025-07-09T10:10:44.833Z",
   "date": "2025-07-09T10:10:31.166Z"
 }
