@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "id": "tmrxdcp5gc",
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate"
+      },
+      "description": {
+        "tr": "Firmamız hakkında bilgiler ve yasal bilgilendirme sayfaları",
+        "en": "Information about our company and legal information pages"
+      },
+      "path": "kurumsal",
+      "icon": "business",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "da4zji"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ri7qnaf8av",
+      "path": "hakkimizda",
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "rgkidh"
+        ],
+        "footer": []
+      },
+      "icon": "home",
+      "pathnext": "",
+      "externalUrl": ""
+    },
+    {
+      "name": {
+        "tr": "Her Şey Dahil Konsepti",
+        "en": "All-Inclusive Concept"
+      },
+      "status": "play",
+      "category": "",
+      "id": "e8ub9urcu4",
+      "path": "herseydahilkonsepti",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "ytau7z",
+          "o4jczr",
+          "azm195"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "externalUrl": ""
+    },
+    {
+      "name": {
+        "tr": "Okul Üniforma ve Spor Kıyaferler",
+        "en": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "h7iq31q2mv",
+      "path": "okuluniformasivesporkiyafetler",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "azm195"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "externalUrl": ""
+    },
+    {
+      "name": {
+        "tr": "Multimedia",
+        "en": "Multimedia"
+      },
+      "status": "play",
+      "category": "",
+      "id": "d41347tnid",
+      "path": "multimedia",
+      "index": 4,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "gquhhb"
+        ],
+        "footer": []
+      },
+      "externalUrl": ""
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Communication"
+      },
+      "status": "play",
+      "category": "",
+      "id": "cjcc21onpg",
+      "path": "iletisim",
+      "index": 5,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "weisas",
+          "hzjrz9"
+        ],
+        "footer": []
+      },
+      "externalUrl": ""
+    }
+  ],
+  "modulestatus": {
+    "page": true,
+    "body": true,
+    "detail": true,
+    "bgimg": true
+  },
+  "desc": []
+}

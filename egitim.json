@@ -1,0 +1,102 @@
+{
+  "name": "Eğitim",
+  "path": "egitim",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "OKUL ÖNCESİ",
+        "en": "PRESCHOOL"
+      },
+      "status": "play",
+      "category": "",
+      "id": "sbfzxwa3ao",
+      "externalUrl": "",
+      "path": "okuloncesi",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "icon": "home",
+      "img": "rcolw.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "İLKOKUL",
+        "en": "PRIMARY SCHOOL"
+      },
+      "status": "play",
+      "category": "",
+      "id": "go15yczl98",
+      "externalUrl": "",
+      "path": "ilkokul",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "nz9yi.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "ORTAOKUL",
+        "en": "MIDDLE SCHOOL"
+      },
+      "status": "play",
+      "category": "",
+      "id": "alp62ih3zo",
+      "externalUrl": "",
+      "path": "ortaokul",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "cqy24.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "ETÜT",
+        "en": "STUDY"
+      },
+      "status": "play",
+      "category": "",
+      "id": "pd7tuzw47v",
+      "externalUrl": "",
+      "path": "etut",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "dot0f.png",
+      "desc": {}
+    }
+  ],
+  "index": 3,
+  "desing": {
+    "header": [],
+    "body": [
+      "ytau7z"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "detail": true,
+    "bgimg": true,
+    "img": true,
+    "body": true,
+    "spot": true
+  }
+}

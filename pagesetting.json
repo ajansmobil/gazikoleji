@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "name": "Sayfalar",
+      "path": "page",
+      "desc": [],
+      "data": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": true,
+        "bgimg": true
+      }
+    },
+    {
+      "name": "Kurumsal",
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "rgkidh"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "detail": true,
+        "img": true,
+        "bgimg": true,
+        "body": true
+      }
+    },
+    {
+      "name": "Etkinlik Takvimi",
+      "path": "activity",
+      "desc": [],
+      "data": [],
+      "index": 2
+    },
+    {
+      "name": "Eğitim",
+      "path": "egitim",
+      "desc": [],
+      "data": [],
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [
+          "ytau7z"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "detail": true,
+        "bgimg": true,
+        "img": true,
+        "body": true,
+        "spot": true
+      }
+    }
+  ]
+}

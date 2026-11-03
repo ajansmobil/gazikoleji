@@ -1,0 +1,35 @@
+{
+  "id": "tmrxdcp5gc",
+  "name": {
+    "tr": "Kurumsal",
+    "en": "Corporate"
+  },
+  "description": {
+    "tr": "Firmamız hakkında bilgiler ve yasal bilgilendirme sayfaları",
+    "en": "Information about our company and legal information pages"
+  },
+  "keyword": {
+    "tr": "kurumsal, hakkımızda, yasal bilgiler",
+    "en": "corporate, about us, legal information"
+  },
+  "path": "kurumsal",
+  "icon": "business",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "da4zji"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Kurumsal | Gazi Koleji",
+    "en": "Corporate | Gazi Koleji"
+  },
+  "date": "2026-11-02T12:52:00.326Z",
+  "update": "2026-11-02T12:52:00.332Z"
+}
