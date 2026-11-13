@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Vizyon",
+    "en": "Vision"
+  },
+  "status": "play",
+  "id": "vizyon",
+  "path": "vizyon",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Vizyonumuz</h2>\n    <p style=\" font-size: 16px;\">\n        GAZİ KOLEJİ olarak vizyonumuz, eğitimde mükemmelliği hedefleyen, öğrencilerin bireysel potansiyellerini en üst düzeyde gerçekleştirmelerini sağlayan, ulusal ve uluslararası alanda tanınan saygın bir eğitim kurumu olmaktır. Her öğrencimizin kendi yetenekleri doğrultusunda gelişimini destekleyerek, onları geleceğin başarılı, etik değerlere sahip, topluma faydalı bireyleri olarak yetiştirmeyi amaçlıyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Vision</h2>\n    <p style=\" font-size: 16px;\">\n        As GAZI COLLEGE, our vision is to be a respected educational institution recognized nationally and internationally that aims for excellence in education and enables students to realize their individual potential at the highest level. By supporting each student's development according to their abilities, we aim to raise them as successful individuals of the future who possess ethical values and benefit society.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "",
+    "en": ""
+  },
+  "description": {
+    "tr": "",
+    "en": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 3,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "btl1b.png",
+  "update": "2025-07-09T10:10:44.868Z",
+  "date": "2025-07-09T10:10:31.208Z"
+}

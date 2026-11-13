@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "Communication"
+  },
+  "status": "play",
+  "category": "",
+  "id": "cjcc21onpg",
+  "url": "",
+  "path": "iletisim",
+  "keyword": {
+    "tr": "",
+    "en": ""
+  },
+  "description": {
+    "tr": "",
+    "en": ""
+  },
+  "text": {
+    "tr": "",
+    "en": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 4,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": ["weisas", "hzjrz9"],
+    "footer": []
+  },
+  "update": "2025-07-09T10:10:44.838Z",
+  "date": "2025-07-09T10:10:31.173Z"
+}

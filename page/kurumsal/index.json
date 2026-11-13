@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About Us"
+  },
+  "status": "play",
+  "id": "kurumsal",
+  "path": "hakkimizda",
+  "category": "",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Hakkımızda</h2>\n    <p style=\" font-size: 16px;\">\n       GAZİ KOLEJİ, eğitim sektöründe 2015 yılından bu yana faaliyet gösteren, köklü ve yenilikçi bir eğitim kurumudur. Uzman Öğretmen ve Eğitim Yöneticisi Savaş BEKTAŞOĞLU'nun vizyoner liderliğinde kurulan okulumuz, 2016-2017 eğitim-öğretim yılından itibaren öğrencilerine kapılarını açmıştır. Kurucumuz Savaş BEKTAŞOĞLU, eğitimi toplumsal gelişimin ve küresel barışın temel taşı olarak görmekte, geleceğin liderlerini yetiştirmeyi hedeflemektedir.</p>\n    <p style=\" font-size: 16px;\">     Modern eğitim anlayışını yansıtan kampüsümüz, Gaziantep'in seçkin lokasyonunda, özenle tasarlanmış iki binadan oluşmaktadır. Her yaş grubuna özel olarak düzenlenmiş oyun alanları, spor tesisleri ve sosyal aktivite merkezleri ile donatılmış kampüsümüzde, 4 yaşından 8. sınıfa kadar geniş bir yaş aralığında eğitim verilmektedir. Kurumumuz, alanında uzman eğitimciler tarafından geliştirilen özgün eğitim programı ve \"Her Şey Dahil Konsepti\" ile eğitimde mükemmelliği hedeflemektedir.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">About Us</h2>\n    <p style=\" font-size: 16px;\">\n       GAZI COLLEGE is an established and innovative educational institution that has been operating in the education sector since 2015. Founded under the visionary leadership of Expert Teacher and Education Manager Savaş BEKTAŞOĞLU, our school opened its doors to students in the 2016-2017 academic year. Our founder, Savaş BEKTAŞOĞLU, sees education as the cornerstone of social development and global peace, aiming to raise the leaders of the future.</p>\n    <p style=\" font-size: 16px;\">     Our campus, reflecting a modern educational approach, consists of two carefully designed buildings in a prestigious location in Gaziantep. Our campus is equipped with playgrounds, sports facilities, and social activity centers specially arranged for each age group, providing education for a wide age range from 4 years old to 8th grade. Our institution aims for excellence in education with its unique educational program developed by expert educators and \"All-Inclusive Concept\".\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "gazi koleji hakkında, gaziantep özel okul, eğitim kurumu, okul tanıtım, gazi koleji tarihçe, kurucu",
+    "en": "about gazi college, private school gaziantep, education institution"
+  },
+  "description": {
+    "tr": "2015'ten beri Gaziantep'te faaliyet gösteren Gazi Koleji hakkında detaylı bilgi. Kurucumuz, tarihçemiz ve eğitim anlayışımız.",
+    "en": "Detailed information about Gazi College operating in Gaziantep since 2015"
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 0,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "r7de4.png",
+  "update": "2025-07-09T10:10:44.845Z",
+  "date": "2025-07-09T10:10:31.181Z"
+}

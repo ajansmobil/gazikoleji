@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Misyonumuz</h2>\n    <p style=\" font-size: 16px;\">\nGAZİ KOLEJİ olarak misyonumuz; evrensel değerleri özümsemiş, kültürel mirasımıza sahip çıkan, farklı kültürlere saygılı, iletişim becerileri gelişmiş, bilimsel düşünce yapısına sahip, sanatsal duyarlılığı yüksek ve çağdaş uygarlık değerlerini benimsemiş bireyler yetiştirmektir. Öğrencilerimizin akademik başarılarının yanı sıra, sosyal ve duygusal gelişimlerini de en üst seviyeye taşımayı hedefliyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Mission</h2>\n    <p style=\" font-size: 16px;\">\nAs GAZI COLLEGE, our mission is to raise individuals who have embraced universal values, protect our cultural heritage, respect different cultures, have developed communication skills, possess scientific thinking, have high artistic sensitivity, and have adopted contemporary civilization values. In addition to our students' academic success, we aim to maximize their social and emotional development.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "",
+    "en": ""
+  },
+  "description": {
+    "tr": "",
+    "en": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 2,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "hp8q3.png",
+  "update": "2025-07-09T10:10:44.861Z",
+  "date": "2025-07-09T10:10:31.199Z"
+}

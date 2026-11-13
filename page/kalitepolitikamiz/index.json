@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Our Quality Policy"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalite-politikamiz",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kalite Politikamız</h2><p style=\" font-size: 16px;\">GAZİ KOLEJİ olarak kalite politikamız, eğitimde sürekli mükemmelliği hedefleyen, öğrenci odaklı ve yenilikçi bir yaklaşıma dayanmaktadır. Eğitim-öğretim süreçlerimizi düzenli olarak değerlendiriyor, modern eğitim yöntemlerini takip ediyor ve uluslararası standartlarda eğitim kalitesi sunmak için çalışıyoruz. Öğrencilerimizin akademik, sosyal ve kişisel gelişimlerini destekleyecek en etkili eğitim programlarını uyguluyor, velilerimizle sürekli iletişim halinde kalarak eğitim kalitemizi sürekli yükseltiyoruz.</p>",
+    "en": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "",
+    "en": ""
+  },
+  "description": {
+    "tr": "",
+    "en": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": ""
+  },
+  "index": 4,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "xehgs.png",
+  "update": "2025-07-09T10:10:44.874Z",
+  "date": "2025-07-09T10:10:31.215Z"
+}

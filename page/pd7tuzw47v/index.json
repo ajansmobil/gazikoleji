@@ -1,0 +1,39 @@
+{
+  "name": {
+    "tr": "ETÜT",
+    "en": "STUDY"
+  },
+  "status": "play",
+  "category": "",
+  "id": "pd7tuzw47v",
+  "url": "",
+  "path": "etut",
+  "keyword": {
+    "tr": "etüt merkezi, özel ders, gazi koleji etüt, takviye eğitim, akademik destek, öğrenci koçluğu",
+    "en": "study program, tutoring, academic support"
+  },
+  "description": {
+    "tr": "Gazi Koleji'nde öğrencilere özel etüt programları. Birebir akademik destek ve öğrenci koçluğu hizmetleriyle başarıyı destekliyoruz.",
+    "en": "Personalized study programs at Gazi College"
+  },
+  "text": {
+    "tr": "<div class='education-content'><h3>Etüt Programı</h3><p>Gazi Koleji'nde öğrencilerimizin akademik başarısını desteklemek için kapsamlı bir etüt programı uyguluyoruz.</p><p>Etüt programlarımız, öğrencilerimizin bireysel ihtiyaçlarına göre planlanmaktadır. Düzenli değerlendirmelerle eksik konuların tamamlanması ve konuların pekiştirilmesi hedeflenmektedir. Modern öğrenme teknikleri ve interaktif eğitim araçlarıyla desteklenen etüt programlarımız, öğrencilerimizin akademik gelişiminde önemli rol oynamaktadır.</p></div>",
+    "en": "<div class='education-content'><h3>Study Program</h3><p>At Gazi College, we implement a comprehensive study program to support our students' academic success.</p><p>Our study programs are planned according to our students' individual needs. Regular assessments aim to complete missing topics and reinforce subjects. Our study programs, supported by modern learning techniques and interactive educational tools, play an important role in our students' academic development.</p></div>"
+  },
+  "spot": {
+    "tr": "Öğrencilerimizin akademik başarısını artırmak için uzman öğretmenlerimiz tarafından birebir etüt programları uygulanmaktadır.",
+    "en": "In order to increase the academic success of our students, one -on -one study programs are applied by our expert teachers."
+  },
+  "index": 3,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "img": "dot0f.png",
+  "bgimg": "k0nmp.png",
+  "update": "2025-07-09T10:10:44.947Z",
+  "date": "2025-07-09T10:10:31.304Z"
+}
